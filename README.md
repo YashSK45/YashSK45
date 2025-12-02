@@ -71,18 +71,6 @@ https://github.com/YashSK45/EDA-on-boston-housing
 
 ---
 
-## ✨ Animated Icons & Micro-animations
-I added animated elements that work well in READMEs:
-- **Waving banner** (capsule-render) — animated header.  
-- **Typing intro** (readme-typing-svg) — animated lines under your avatar.  
-- These are smooth, reliable and GitHub-friendly animations.
-
-If you want **extra animated icons** (GIFs) for skills (e.g., animated Python GIF, cloud animation), I can:
-- add small GIFs (I will pick high-quality ones), **or**
-- create a custom animated SVG badge for you.
-
----
-
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-kale45/">
