@@ -44,6 +44,30 @@
 </p>
 
 ---
+## ⚡ Animated Skill Icons
+
+<p align="center">
+
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/ElanYoung/ElanYoung/main/assets/python.gif" width="90" alt="Python GIF" />
+
+  <!-- AWS -->
+  <img src="https://raw.githubusercontent.com/ElanYoung/ElanYoung/main/assets/aws.gif" width="90" alt="AWS GIF" />
+
+  <!-- Streamlit -->
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/icons/streamlit.gif" width="90" alt="Streamlit GIF" />
+
+  <!-- Machine Learning / AI -->
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/AI.gif" width="90" alt="AI GIF" />
+
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/VSC.gif" width="90" alt="VS Code GIF" />
+
+  <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Github.gif" width="90" alt="GitHub GIF" />
+
+</p>
+
 
 ## 🚀 Featured Projects
 ### 🔹 Automated Brain Tumor Detection (Deep Learning + Streamlit)  
